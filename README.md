@@ -5,13 +5,10 @@
 
 <p align="center"><i>"반갑습니다! 김수환입니다! 😊 "</i></p>
 
-<br/>
-### 🔧 Tech Stack
-- **Frontend:** React, Next.js, TypeScript, Zustand, React Query
-- **Styling:** TailwindCSS, Styled-Components
-- **Tools:** Vercel, GitHub Actions, Figma
 
 
+
+<div align="center">
 
 ### 🟦 Frontend
 <p>
@@ -23,7 +20,7 @@
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
-
+</div>
 
 
 <div align="center">
