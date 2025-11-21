@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"><i>"사용자가 신뢰하는 경험을 만드는 개발자"</i></p>
+<p align="center"><i>"반갑습니다! 김수환입니다! 😊 "</i></p>
 
 <br/>
 ### 🔧 Tech Stack
@@ -24,11 +24,8 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-## 🎄 GitHub Stats
+
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SH701&show_icons=true&theme=tokyonight" height="160px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH701&layout=compact&theme=tokyonight" height="160px"/>
-
 </div>
