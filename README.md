@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Suhwan!
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=SUHWAN%20KIM&fontSize=50&fontColor=ffffff&fontAlignY=35" />
 </p>
