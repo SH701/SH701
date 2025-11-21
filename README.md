@@ -16,7 +16,7 @@
 
 ### 📚 Languages / Library / Tools 📚
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<p>
   <tr>
     <td style="padding: 6px;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -31,9 +31,9 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
   </tr>
-</table>
+</p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<p align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="padding: 6px;">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
@@ -51,10 +51,10 @@
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
     </td>
   </tr>
-</table>
+</p>
 
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<p align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="padding: 6px;">
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -63,7 +63,7 @@
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
   </tr>
-</table>
+</p>
 
 </div>
 
