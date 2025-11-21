@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=SUHWAN%20KIM&fontSize=50&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<p align="center">🇰🇷 Frontend Developer | Next.js, React, TypeScript 🇰🇷</p>
+
 <p align="center"><i>"사용자가 신뢰하는 경험을 만드는 개발자"</i></p>
 
 <br/>
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevelopSoo&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevelopSoo&layout=compact&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SH701&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH701&layout=compact&theme=tokyonight" height="160px"/>
 
 </div>
