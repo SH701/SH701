@@ -17,49 +17,21 @@
 ### 📚 Languages / Library / Tools 📚
 
 <table align="center">
-  <tr>
-    <td align="center">
-        <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    </td>
-  </tr>
 </table>
 <table align="center">
-  <tr>
-    <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    </td>
-  </tr>
 </table>
 <table align="center">
-  <tr>
-    <td align="center">
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Vercel-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    </td>
-  </tr>
+   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </table>
 </div>
 
