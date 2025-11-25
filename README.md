@@ -62,6 +62,12 @@
     <td style="padding: 6px;">
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
+    <td style="padding: 6px;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</td>
+<td style="padding: 6px;">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+</td>
   </tr>
 </p>
 
